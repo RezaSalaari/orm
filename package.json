@@ -1,0 +1,19 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "description": "this module just convert sql query to some method for better using Like Orm frameworks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orm",
+    "sqlBuilder",
+    "postgres"
+  ],
+  "author": "Reza Salari",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
