@@ -1,6 +1,6 @@
 {
-  "name": "orm",
-  "version": "1.0.0",
+  "name": "alfaorm",
+  "version": "^1.1.0",
   "description": "this module just convert sql query to some method for better using Like Orm frameworks",
   "main": "main.js",
   "scripts": {
